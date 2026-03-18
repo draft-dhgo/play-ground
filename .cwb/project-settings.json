@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "name": "play-ground",
+  "settings": {
+    "maxContainers": 3,
+    "autoMerge": true,
+    "mergeStrategy": "merge",
+    "reviewEnabled": true,
+    "lang": "ko"
+  },
+  "devRepos": []
+}
