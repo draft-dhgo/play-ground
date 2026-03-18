@@ -1,0 +1,3 @@
+[submodule "repos/front"]
+	path = repos/front
+	url = git@github.com:draft-dhgo/front.git

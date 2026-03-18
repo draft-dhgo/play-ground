@@ -8,5 +8,13 @@
     "reviewEnabled": true,
     "lang": "ko"
   },
-  "devRepos": []
+  "devRepos": [
+    {
+      "id": "7a73789c-7cd8-4d48-92c1-ec52fefa3c34",
+      "name": "front",
+      "remoteUrl": "git@github.com:draft-dhgo/front.git",
+      "submodulePath": "repos/front",
+      "addedAt": "2026-03-18T13:52:22.077Z"
+    }
+  ]
 }
