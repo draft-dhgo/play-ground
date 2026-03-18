@@ -1,5 +1,23 @@
 {
   "version": 1,
-  "nextId": 1,
-  "issues": []
+  "nextId": 2,
+  "issues": [
+    {
+      "id": "ISSUE-001",
+      "title": "the mars 의 prd.docx 대로 만들어",
+      "description": "",
+      "type": "feature",
+      "status": "created",
+      "baseBranch": "main",
+      "issueBranch": "issue/ISSUE-001",
+      "priority": "medium",
+      "pipelineCommand": "/teams",
+      "pipelineArgs": "https://github.com/draft-dhgo/the-mars.git",
+      "labels": [
+        "initialize"
+      ],
+      "createdAt": "2026-03-18T14:11:59.053Z",
+      "updatedAt": "2026-03-18T14:11:59.053Z"
+    }
+  ]
 }
