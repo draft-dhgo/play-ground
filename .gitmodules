@@ -1,3 +1,0 @@
-[submodule "repos/server"]
-	path = repos/server
-	url = git@github.com:draft-dhgo/server.git

@@ -8,13 +8,5 @@
     "reviewEnabled": true,
     "lang": "ko"
   },
-  "devRepos": [
-    {
-      "id": "73313bae-89d4-4c4c-b7ca-86e8f4305662",
-      "name": "server",
-      "remoteUrl": "git@github.com:draft-dhgo/server.git",
-      "submodulePath": "repos/server",
-      "addedAt": "2026-03-18T13:53:40.217Z"
-    }
-  ]
+  "devRepos": []
 }
