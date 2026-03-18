@@ -1,0 +1,3 @@
+[submodule "repos/the-mars"]
+	path = repos/the-mars
+	url = https://github.com/draft-dhgo/the-mars.git
