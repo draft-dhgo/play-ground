@@ -15,6 +15,13 @@
       "remoteUrl": "git@github.com:draft-dhgo/front.git",
       "submodulePath": "repos/front",
       "addedAt": "2026-03-18T13:52:22.077Z"
+    },
+    {
+      "id": "73313bae-89d4-4c4c-b7ca-86e8f4305662",
+      "name": "server",
+      "remoteUrl": "git@github.com:draft-dhgo/server.git",
+      "submodulePath": "repos/server",
+      "addedAt": "2026-03-18T13:53:40.217Z"
     }
   ]
 }
